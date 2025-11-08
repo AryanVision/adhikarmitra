@@ -1,0 +1,23 @@
+[
+  { "id": "agriculture-rural-dev", "name": "Agriculture & Rural Development", "description": "Farming, animal husbandry, fisheries, rural development, and panchayat administration", "icon": "🌾", "order": 10 },
+  { "id": "central-admin", "name": "Central Administration", "description": "Passport services, census, vigilance, and central government administrative offices", "icon": "🏛️", "order": 20 },
+  { "id": "central-public-services", "name": "Central Public Services", "description": "Postal services, telecommunications, and other central government citizen services", "icon": "📬", "order": 30 },
+  { "id": "civic", "name": "Civic", "description": "Municipal & civic services", "order": 40 },
+  { "id": "education", "name": "Education", "description": "School and higher education authorities", "order": 50 },
+  { "id": "education-skill-dev", "name": "Education & Skill Development", "description": "School education, higher education, technical training, and skill development programs", "icon": "📚", "order": 60 },
+  { "id": "emergency-services", "name": "🚨 Emergency Services", "description": "Police 100, Fire 101, Ambulance 102/108, Women Helpline 181, Child Helpline 1098, Disaster Management", "icon": "🚨", "order": 5 },
+  { "id": "energy-infrastructure", "name": "Energy & Infrastructure", "description": "Power supply, roads, buildings, housing, water resources, and irrigation projects", "icon": "⚡", "order": 70 },
+  { "id": "environment-forest", "name": "Environment & Forest", "description": "Environmental protection, forest conservation, pollution control, and climate action", "icon": "🌳", "order": 80 },
+  { "id": "finance-administration", "name": "Finance & Administration", "description": "State finance, revenue, commercial taxes, stamps, registration, and general administration", "icon": "🏛️", "order": 90 },
+  { "id": "health", "name": "Health", "description": "Public health & medical grievance bodies", "order": 100 },
+  { "id": "human-rights", "name": "Human Rights", "description": "Rights & protection authorities", "order": 110 },
+  { "id": "independent-bodies", "name": "⚖️ Independent Constitutional Bodies", "description": "RBI, CBI, ED, Lokpal, Election Commission, CAG, NHRC, CVC, CIC, UPSC - autonomous constitutional authorities", "icon": "⚖️", "order": 15 },
+  { "id": "industry-commerce", "name": "Industry & Commerce", "description": "Industrial development, IT, MSME, tourism, handlooms, and textiles", "icon": "🏭", "order": 120 },
+  { "id": "law-enforcement", "name": "Law Enforcement", "description": "Police, security, and law enforcement agencies", "icon": "👮", "order": 130 },
+  { "id": "legal", "name": "Legal", "description": "Consumer, legal aid and rights commissions", "order": 140 },
+  { "id": "public-services", "name": "Public Services", "description": "Civil supplies, labour, employment, information, public relations, and legal affairs", "icon": "📋", "order": 150 },
+  { "id": "revenue-taxation", "name": "Revenue & Taxation", "description": "Revenue collection, taxation, and stamp duties", "icon": "💰", "order": 160 },
+  { "id": "social-welfare", "name": "Social Welfare", "description": "Women and child welfare, social security, BC/SC/ST/Minority development programs", "icon": "🤝", "order": 170 },
+  { "id": "transport", "name": "Transport", "description": "Road transport, vehicle registration, and licensing", "icon": "🚗", "order": 180 },
+  { "id": "utilities", "name": "Utilities", "description": "Electricity, water, and related services", "order": 190 }
+]
